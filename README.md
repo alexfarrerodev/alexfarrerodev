@@ -13,13 +13,49 @@ I love tackling complex **challenges** in both front-end and back-end developmen
 
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" height="30" /> **Programming lenguages**  
-[![Skills](https://skillicons.dev/icons?i=html,css,java,py,js,ts,react,nextjs,mysql,php,postgres&perline=13)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,java,py,js,ts,react,nextjs,mysql,php,postgres,mongodb&perline=13)](#)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Screwdriver.png" alt="Computer" width="30" height="30" /> **Some tools**  
-[![Skills](https://skillicons.dev/icons?i=linux,docker,fastapi,stackoverflow&perline=13)](#)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Screwdriver.png" alt="Computer" width="30" height="30" /> **Some tools & misc**  
+[![Skills](https://skillicons.dev/icons?i=linux,docker,fastapi,stackoverflow,bash,regex,powershell,bootstrap,flask,git,github,gitlab&perline=13)](#)
 
 
 
-</a> <a href="mailto:alexfarrerodev@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> </a> <a href="https://www.linkedin.com/in/john-mwendwa/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+</a> <a href="mailto:alexfarrerodev@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> </a> <a href="https://www.linkedin.com/in/alex-farrero-dev/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MIT License
+
+Copyright (c) 2022 tandpfun
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. -->
