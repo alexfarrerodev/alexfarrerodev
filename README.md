@@ -1,5 +1,6 @@
 
-<h1>Hi I'm Alex <iframe src="https://giphy.com/embed/CVJhHuL2ZlRYPCibRW/video" width="56" height="56" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/hand-touch-fingers-CVJhHuL2ZlRYPCibRW"></a></p></h1>
+<h1>Hi I'm Alex </h1>
+<iframe src="https://giphy.com/embed/CVJhHuL2ZlRYPCibRW/video" width="480" height="365" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/hand-touch-fingers-CVJhHuL2ZlRYPCibRW">via GIPHY</a></p>
 
 
 Hi! I'm a **Full Stack Developer** passionate about building **dynamic** web applications with **Python** and **JavaScript**. 
