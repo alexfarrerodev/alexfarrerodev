@@ -1,5 +1,11 @@
 
-A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
+<h1>Hi I'm Alex <iframe src="https://giphy.com/embed/CVJhHuL2ZlRYPCibRW/video" width="56" height="56" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/hand-touch-fingers-CVJhHuL2ZlRYPCibRW"></a></p></h1>
+
+
+Hi! I'm a **Full Stack Developer** passionate about building **dynamic** web applications with **Python** and **JavaScript**. 
+
+I love tackling complex challenges in both front-end and back-end development and am always eager to explore new tools and technologies. Let's create something great together!
+ 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 
