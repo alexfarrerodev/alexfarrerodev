@@ -17,7 +17,7 @@ I love tackling complex **challenges** in both front-end and back-end developmen
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Screwdriver.png" alt="Computer" width="30" height="30" /> **Some tools & misc**  
-[![Skills](https://skillicons.dev/icons?i=linux,docker,fastapi,stackoverflow,bash,regex,powershell,bootstrap,flask,git,github,gitlab&perline=13)](#)
+[![Skills](https://skillicons.dev/icons?i=linux,docker,fastapi,tailwind,bash,regex,flask&perline=13)](#)
 
 
 
